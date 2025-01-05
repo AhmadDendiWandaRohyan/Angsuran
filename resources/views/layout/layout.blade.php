@@ -6,6 +6,8 @@
         <title>My Project</title>
         @vite('resources/css/app.css')
         @vite('resources/js/app.js')
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+
     </head> 
     <body>
         <div class="bg-white">
